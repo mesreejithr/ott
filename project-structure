@@ -1,0 +1,23 @@
+src/
+  ├── components/
+  │   ├── layout/
+  │   │   ├── Header.js
+  │   │   ├── Footer.js
+  │   │   └── Sidebar.js
+  │   ├── movie/
+  │   │   ├── MovieCard.js
+  │   │   ├── MovieGrid.js
+  │   │   ├── MovieDetail.js
+  │   │   └── MovieSlider.js
+  │   └── common/
+  │       ├── SearchBar.js
+  │       └── FilterSection.js
+  ├── services/
+  │   └── tmdbApi.js
+  ├── context/
+  │   └── ThemeContext.js
+  ├── hooks/
+  │   └── useMovies.js
+  ├── utils/
+  │   └── constants.js
+  └── App.js 
